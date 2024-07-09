@@ -3,11 +3,11 @@ from markdown import markdown
 import pdfkit
 
 # Definieren Sie die Dateinamen
-input_filename = 'praktikum/README.md'
-output_filename = 'praktikum/readme.pdf'
+input_filename = 'README.md'
+output_filename = 'readme.pdf'
 
 # Öffnen Sie die Eingabedatei und lesen Sie den Inhalt
-with open(input_filename, 'r') as f:
+with open(input_filename, 'r', encoding='utf-8') as f:
     markdown_text = f.read()
 
 # Konvertieren Sie den Markdown-Text in HTML
