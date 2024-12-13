@@ -132,12 +132,12 @@ erstellte oder angepasste Softwareanwendung zu testen und die Einführung vorzub
 Protokollbenutzung http(s), ftp, smtp, pop3/imap mit dem
 PHP-Framework vii(2)
 * Webanwendung zum Erstellen eines Stundenplanes mit
-Datenbankanbindung (hier z.B. arbeitsanteiliges Projekt: Datenbank mit Benutzeranbindung und Eingabemasken) ***->OFI IBB - es besteht Potential/Handlungsbedarf***
+Datenbankanbindung (hier z.B. arbeitsanteiliges Projekt: Datenbank mit Benutzeranbindung und Eingabemasken) 
 * Inventarerfassung über Webapplikation
 * Entwicklung eines Tätigkeitserfassungs- und Verwaltungssystems für Mitarbeiter auf Basis von PHP (wenn PHP den Hauptanteil des Projektes stellt, muss der Projektanteil komplexer sein)
 * bedienfreundlich erweiterbare Inventarverwaltungsapp (ggf. auch Umstellung auf...)
 * Internetplattform zur Unterstützung der Kommunikation und
-Datentransfer zwischen Agenturen und Schulen ***->OFI IBB - es besteht Potential/Handlungsbedarf***
+Datentransfer zwischen Agenturen und Schulen 
 * Entwicklung einer grafischen Benutzeroberfläche zur (zu einer bestimmten) Gerätekonfiguration
 * komplexes Newsletter-Tool mit Kategorieunterteilung (Inhalts-,Sprachauswahl), REST API-Anmeldung ***(REST-API Erfahrung von mir kann genutzt werden)***
 
